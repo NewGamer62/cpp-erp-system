@@ -1,16 +1,18 @@
-# front_erp
+# 📱 Front ERP — Client Flutter
 
-A new Flutter project.
+Frontend applicatif Flutter pour la boutique ERP Polyèdre / Wavesoft.
 
-## Getting Started
+Pour la documentation complète du projet, l'architecture globale, les captures d'écran et les instructions de démarrage, veuillez consulter le [README principal à la racine du dépôt](../README.md).
 
-This project is a starting point for a Flutter application.
+### Lancement Rapide
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+flutter pub get
+flutter run -d windows
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Vérification Statique
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter analyze
+```
