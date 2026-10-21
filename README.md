@@ -4,7 +4,7 @@
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white)](https://dart.dev)
 [![State Management](https://img.shields.io/badge/State-Provider%206.x-blueviolet)](https://pub.dev/packages/provider)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Web%20%7C%20Android-4CAF50)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Module](https://img.shields.io/badge/Module-R4.09%20ERP-blueviolet)](#)
 
 Application multiplateforme (Desktop Windows, Web, Android) développée avec **Flutter** et **Dart**, connectée à l'infrastructure backend d'un Progiciel de Gestion Intégré (**ERP Wavesoft / Polyèdre**) via des passerelles CGI exposant des flux JSON en temps réel.
 
